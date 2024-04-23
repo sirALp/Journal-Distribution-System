@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Beans Binding">
+    <archive path="A:/YTU/BLM2012 - NYP/Semester Project/Journal-Distribution-System/lib/beansbinding.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.13.2">
+    <archive path="C:/Users/kaner/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="C:/Users/kaner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.1/junit-jupiter-5.10.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/kaner/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.1/junit-jupiter-params-5.10.1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.3.0">
+    <archive path="C:/Users/kaner/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.10.1">
+    <archive path="C:/Users/kaner/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
